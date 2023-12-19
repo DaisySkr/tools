@@ -1,0 +1,10 @@
+{
+  "name": "util",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
